@@ -20,4 +20,4 @@ Food Healthiness Classification Based on Ingredients by Mohammad Ali Khan
 └── LICENSE # License file
 ```
 ## References
-[1]	S. Saha, “Image Classification using CNN,” GeeksforGeeks. Last updated: Aug. 05, 2025. [Online]. Available: https://www.geeksforgeeks.org/machine-learning/image-classifier-using-cnn/ [Accessed: Nov. 05, 2025].
+[1]	AnalytixLabs, “Random Forest Regression — How it Helps in Predictive Analytics?,” Medium, Dec. 26, 2023. https://medium.com/@byanalytixlabs/random-forest-regression-how-it-helps-in-predictive-analytics-01c31897c1d4
