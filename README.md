@@ -6,8 +6,8 @@ Food Healthiness Classification Based on Ingredients by Mohammad Ali Khan
 ├── Data/ # Raw and processed data files
 │ └── Where-to-Obtain.md # Document that outlines where the data comes from and how to obtain it
 │
-├── Materials/ # Generated charts and figures for reporting and reference documents
-│ ├── 
+├── Materials/ # Reference documents to understand the project
+│ ├── Random Forest Regression.pdf # A document that explains the purpose of the model used in the study
 │ └── 
 │
 ├── Scripts/ # Jupyter notebooks for analysis
