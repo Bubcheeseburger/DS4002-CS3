@@ -8,7 +8,7 @@ Food Healthiness Classification Based on Ingredients by Mohammad Ali Khan
 │
 ├── Materials/ # Reference documents to understand the project
 │ ├── Random Forest Regression.pdf # A document that explains the purpose of the model used in the study
-│ └── 
+│ └── Understanding Ingredients on Food Labels.pdf # A document that highlights the issue and motivation at hand for the study
 │
 ├── Scripts/ # Jupyter notebooks for analysis
 │ ├── Preprocessing.ipynb # Cleans and merges raw CSVs, outputs processed data that is then used in Data_Analysis.ipynb
