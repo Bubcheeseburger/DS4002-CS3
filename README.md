@@ -20,6 +20,6 @@ Food Healthiness Classification Based on Ingredients by Mohammad Ali Khan
 └── LICENSE # License file
 ```
 ## References
-[1]	AnalytixLabs, “Random Forest Regression — How it Helps in Predictive Analytics?,” Medium, Dec. 26, 2023. https://medium.com/@byanalytixlabs/random-forest-regression-how-it-helps-in-predictive-analytics-01c31897c1d4
+[1]	AnalytixLabs, “Random Forest Regression — How it Helps in Predictive Analytics?,” Medium, Dec. 26, 2023. https://medium.com/@byanalytixlabs/random-forest-regression-how-it-helps-in-predictive-analytics-01c31897c1d4 //
 [2] American Heart Association, “Understanding Ingredients on Food Labels,” Heart.org, 2024.
 https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/understanding-ingredients-on-food-labels
