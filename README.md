@@ -14,8 +14,8 @@ Food Healthiness Classification Based on Ingredients by Mohammad Ali Khan
 │ ├── Preprocessing.ipynb # Cleans and merges raw CSVs, outputs processed data that is then used in Data_Analysis.ipynb
 │ └── Data_Analysis.ipynb # This is the main script that scores products, labels them as healthy, unhealthy, or intermediate, and then teaches a model to recognize the patterns in ingredients to score things itself
 │
-├── 
-├── 
+├── Hook.pdf # Gives the background, motivation, and goal for the case study
+├── Rubric.pdf # Lays out the requirements needed to complete the case study
 ├── README.md # Project overview and instructions
 └── LICENSE # License file
 ```
