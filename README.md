@@ -15,9 +15,9 @@ Food Healthiness Classification Based on Ingredients by Mohammad Ali Khan
 │ └── Data_Analysis.ipynb # This is the main script that scores products, labels them as healthy, unhealthy, or intermediate, and then teaches a model to recognize the patterns in ingredients to score things itself
 │
 ├── Hook.pdf # Gives the background, motivation, and goal for the case study
-├── Rubric.pdf # Lays out the requirements needed to complete the case study
+├── LICENSE # License file
 ├── README.md # Project overview and instructions
-└── LICENSE # License file
+└── Rubric.pdf # Lays out the requirements needed to complete the case study
 ```
 ## References
 [1]	AnalytixLabs, “Random Forest Regression — How it Helps in Predictive Analytics?,” Medium, Dec. 26, 2023. https://medium.com/@byanalytixlabs/random-forest-regression-how-it-helps-in-predictive-analytics-01c31897c1d4
